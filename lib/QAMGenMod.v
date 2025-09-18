@@ -1,3 +1,5 @@
+// Author: selenus32
+
 module QAMGenMod #(
     parameter M = 256, // qam order (powers of two)
     parameter W = 8, // output width
