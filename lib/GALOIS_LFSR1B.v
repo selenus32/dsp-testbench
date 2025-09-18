@@ -5,6 +5,7 @@
 // shift plus feedback follows multiplication by x in GF(2^n) mod the primitive polynomial
 // 
 // ref: https://en.wikipedia.org/wiki/Linear-feedback_shift_register
+// Author: selenus32
 
 module GALOIS_LFSR1B #(
     parameter start_state = 8'hE1
